@@ -1,0 +1,42 @@
+Date  Who       Start Stop  Interruptions Question TimeOnTask    Comments
+9/10  AA        00:45 01:50   10            Prep     55            The CCIS Account was created before starting "Preparing Your Laptop For CS5010"
+								   **"Preparing Your Laptop For CS5010" finished**
+9/10  AA        15:12  15:15                1        3             Thought of the calculations required for Q1
+9/10  AA        15:15  15:26  3             1        8             **Ex.1 finished**
+9/10  AA        15:28  15:35                2        7             Solved the question without using conditional if statement.
+9/10  AA        15:35  15:43  2             2        6             Realized this needs to have an if statement. **Ex.2 finished**
+9/10  AA        16:20  16:22                3        2             Reading the contracts and purpose statement a number of times so I understand them.
+9/10  AA        16:22  16:34  2             3        10            **Ex.3 finished**
+9/11  AA        13:28  13:42  5             4        9             Almost the same as Ex.3 **Ex.4 finished**
+9/11  AA        13:49  13:59                5        10            **Ex.5 finished**
+9/11  AA        13:59  14:21                6        22            Thought of the required things in the question.
+9/11  AA        14:21  14:52  3             6        28            Testing this took quite some time.
+9/11  AA        14:55  15:06                7        11            **Ex.7 finished**
+9/11  AA        15:29  15:30                6        1             Realised a small mistake in Ex.6 **Ex.6 finished**
+9/11  AA        15:30  15:39                8        9             **Ex.8 finished**
+9/11  AA        15:39  16:15  8+2           9        26            **Ex.9 finished**
+9/11  AA        16:19  16:56  3+1           10       33            **Ex.10 finished**
+============committing to git: 9/11 23:12 ===================
+
+Total Time On Task Prep (minutes)                55
+Total Time On Task Q1 (minutes)                  11
+Total Time On Task Q2 (minutes)                  13
+Total Time On Task Q3 (minutes)                  12
+Total Time On Task Q4 (minutes)                  9
+Total Time On Task Q5 (minutes)                  10
+Total Time On Task Q6 (minutes)                  51
+Total Time On Task Q7 (minutes)                  11
+Total Time On Task Q8 (minutes)                  9
+Total Time On Task Q9 (minutes)                  26
+Total Time On Task Q10 (minutes)                 33 
+TOTPrep (hours and tenths)                       0.9 
+TOTQ1 (hours and tenths)                         0.1 
+TOTQ2 (hours and tenths)                         0.2 
+TOTQ3 (hours and tenths)                         0.2 
+TOTQ4 (hours and tenths)                         0.1 
+TOTQ5 (hours and tenths)                         0.1 
+TOTQ6 (hours and tenths)                         0.8 
+TOTQ7 (hours and tenths)                         0.1 
+TOTQ8 (hours and tenths)                         0.1 
+TOTQ9 (hours and tenths)                         0.4 
+TOTQ10 (hours and tenths)                        0.5
